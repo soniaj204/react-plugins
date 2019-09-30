@@ -16,4 +16,8 @@ export default defineMessages({
     id: `${scope}.features`,
     defaultMessage: 'Features',
   },
+  infiniteScrollComponent: {
+    id: `${scope}.infiniteScrollComponent`,
+    defaultMessage: 'Infinite Scroll Component',
+  },
 });
